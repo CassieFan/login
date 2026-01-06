@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel Login Insights",
+  "description": "A comprehensive web login statistics dashboard featuring real-time activity tracking, peak hour analysis, device distribution, and AI-powered security insights using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
